@@ -1,7 +1,7 @@
 # AI-Enabled-Card-Organizer
 AI Enabled Card Organizer - Group Project for COMP264
 
-### To remove 'Pipfile' and 'Pipfile.lock', run the following commands, run the following commands on Terminal 
+### To remove 'Pipfile' and 'Pipfile.lock', run the following commands on Terminal 
 ```
 pipenv --rm
 rm Pipfile*
