@@ -12,7 +12,7 @@ pipenv --rm
 rm Pipfile*
 ```
 
-### To install 'pipenv' with all the requirements, run the following commands on Terminal 
+### To setup 'pipenv' with all the requirements, run the following commands on Terminal 
 ```
 pipenv --three
 pipenv install -r requirements.txt
