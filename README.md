@@ -1,7 +1,7 @@
 # AI-Enabled-Card-Organizer
 AI Enabled Card Organizer - Group Project for COMP264
 
-### Setup AWS CLI using the following commands on Terminal 
+### Setup AWS CLI using the following command on Terminal 
 ```
 aws configure
 ```
