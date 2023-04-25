@@ -1,6 +1,11 @@
 # AI-Enabled-Card-Organizer
 AI Enabled Card Organizer - Group Project for COMP264
 
+### Setup AWS CLI using the following commands on Terminal 
+```
+aws configure
+```
+
 ### To remove 'Pipfile' and 'Pipfile.lock', run the following commands on Terminal 
 ```
 pipenv --rm
