@@ -27,3 +27,12 @@ chalice local
 
 ### Architecture Diagram
 ![Architecture Diagram](architecture_diagram.png)
+
+### Communications Diagram
+![Communications Diagram](communications_diagram.png)
+
+### Business Card Detection and Translation
+![Business Card Detection and Translation](card_detection_translation.png)
+
+### Lead Search Table
+![Lead Search Table](lead_search_table.png)
